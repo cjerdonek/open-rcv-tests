@@ -4,8 +4,9 @@ Ranked Choice Voting Tests
 The purpose of this repository is to make test cases publicly available
 for ranked choice voting election software.
 
-The test cases in this repository can be used to help check that new
-implementations are correct, for example [OpenRCV][openrcv-github].
+The test cases in this repository can be used for automated testing
+and to help check that different software implementations agree and
+are correct, for example [OpenRCV][openrcv-github].
 
 
 Test Details
