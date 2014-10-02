@@ -40,3 +40,5 @@ Chris Jerdonek (<chris.jerdonek@gmail.com>)
 
 
 [openrcv-github]: https://github.com/cjerdonek/open-rcv
+[semver]: http://semver.org/
+[version-number]: https://github.com/cjerdonek/open-rcv-tests/blob/master/tests.json#L2
