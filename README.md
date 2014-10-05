@@ -6,19 +6,19 @@ for ranked choice voting election software.
 
 The test cases in this repository can be used for automated testing
 and to help check that different software implementations agree and
-are correct, for example [OpenRCV][openrcv-github].
+are correct, for example [OpenRCV][openrcv_github].
 
 
 Test Details
 ------------
 
-The tests are located in the file [`tests.json`](tests.json).
+The tests are located in the file [`contests.json`][test_data].
 
 
 For Maintainers
 ---------------
 
-To deploy a new version, bump the [`"version"`][version-number] number in
+To deploy a new version, bump the [`"version"`][version_number] number in
 `tests.json`, and tag the release with a [SemVer][semver]
 Git tag (it is okay to add a prefix of "v").  For example--
 
@@ -39,6 +39,7 @@ Author
 Chris Jerdonek (<chris.jerdonek@gmail.com>)
 
 
-[openrcv-github]: https://github.com/cjerdonek/open-rcv
+[openrcv_github]: https://github.com/cjerdonek/open-rcv
 [semver]: http://semver.org/
-[version-number]: https://github.com/cjerdonek/open-rcv-tests/blob/master/tests.json#L2
+[test_data]: contests.json
+[version_number]: https://github.com/cjerdonek/open-rcv-tests/blob/master/tests.json#L2
