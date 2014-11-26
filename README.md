@@ -6,7 +6,10 @@ for ranked choice voting election software.
 
 The test cases in this repository can be used for automated testing
 and to help check that different software implementations agree and
-are correct, for example [OpenRCV][openrcv_github].
+are correct.  [OpenRCV][openrcv_github] is an example of a project that
+uses the tests in this repository.
+
+TODO: mention rule descriptions.
 
 
 Test Details
