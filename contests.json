@@ -7,7 +7,7 @@
             "_meta": {
                 "index": 1,
                 "notes": "Random contest with 3 candidates",
-                "perm_id": "ecd7e158",
+                "id": "ecd7e158",
                 "rule_sets": [
                     "sfrcv"
                 ]
@@ -23,7 +23,7 @@
             "_meta": {
                 "index": 2,
                 "notes": "Random contest with 4 candidates",
-                "perm_id": "64c8c2a6",
+                "id": "64c8c2a6",
                 "rule_sets": [
                     "sfrcv"
                 ]
@@ -41,7 +41,7 @@
             "_meta": {
                 "index": 3,
                 "notes": "Random contest with 5 candidates",
-                "perm_id": "454e583d",
+                "id": "454e583d",
                 "rule_sets": [
                     "sfrcv"
                 ]
@@ -63,7 +63,7 @@
                     "Contest has 6 candidates and 20 ballots.  ",
                     "Created on November 26, 2014 10:51:10PM."
                 ],
-                "perm_id": "5b447159",
+                "id": "5b447159",
                 "rule_sets": [
                     "sfrcv"
                 ]
@@ -99,7 +99,7 @@
                     "Random contest with 6 candidates and 20 ballots.  ",
                     "Created on December 15, 2014 at 11:30:07AM."
                 ],
-                "perm_id": "aa21b058",
+                "id": "aa21b058",
                 "rule_sets": [
                     "sfrcv"
                 ]
@@ -134,7 +134,7 @@
                     "Random contest with 6 candidates and 20 ballots.  ",
                     "Created on December 15, 2014 at 11:31:26AM."
                 ],
-                "perm_id": "04fa8b47",
+                "id": "04fa8b47",
                 "rule_sets": [
                     "sfrcv"
                 ]
