@@ -7,7 +7,10 @@
             "_meta": {
                 "index": 1,
                 "notes": "Random contest with 3 candidates",
-                "rule_sets": ["sfrcv"]
+                "perm_id": "ecd7e158",
+                "rule_sets": [
+                    "sfrcv"
+                ]
             },
             "ballots": [
                 "3",
@@ -20,7 +23,10 @@
             "_meta": {
                 "index": 2,
                 "notes": "Random contest with 4 candidates",
-                "rule_sets": ["sfrcv"]
+                "perm_id": "64c8c2a6",
+                "rule_sets": [
+                    "sfrcv"
+                ]
             },
             "ballots": [
                 "1 1 3 2",
@@ -35,7 +41,10 @@
             "_meta": {
                 "index": 3,
                 "notes": "Random contest with 5 candidates",
-                "rule_sets": ["sfrcv"]
+                "perm_id": "454e583d",
+                "rule_sets": [
+                    "sfrcv"
+                ]
             },
             "ballots": [
                 "2 1 5",
@@ -54,7 +63,10 @@
                     "Contest has 6 candidates and 20 ballots.  ",
                     "Created on November 26, 2014 10:51:10PM."
                 ],
-                "rule_sets": ["sfrcv"]
+                "perm_id": "5b447159",
+                "rule_sets": [
+                    "sfrcv"
+                ]
             },
             "ballots": [
                 "2",
@@ -87,7 +99,10 @@
                     "Random contest with 6 candidates and 20 ballots.  ",
                     "Created on December 15, 2014 at 11:30:07AM."
                 ],
-                "rule_sets": ["sfrcv"]
+                "perm_id": "aa21b058",
+                "rule_sets": [
+                    "sfrcv"
+                ]
             },
             "ballots": [
                 "3",
@@ -119,7 +134,10 @@
                     "Random contest with 6 candidates and 20 ballots.  ",
                     "Created on December 15, 2014 at 11:31:26AM."
                 ],
-                "rule_sets": ["sfrcv"]
+                "perm_id": "04fa8b47",
+                "rule_sets": [
+                    "sfrcv"
+                ]
             },
             "ballots": [
                 "1 1 1 6 3 4 6",
