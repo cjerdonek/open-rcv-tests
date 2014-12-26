@@ -50,7 +50,7 @@
         },
         {
             "_meta": {
-                "index": 2,
+                "index": 3,
                 "rules": [
                     "batch_elimination"
                 ]
@@ -76,7 +76,7 @@
         },
         {
             "_meta": {
-                "index": 3
+                "index": 4
             },
             "input": {
                 "_meta": {
@@ -99,7 +99,7 @@
         },
         {
             "_meta": {
-                "index": 4
+                "index": 5
             },
             "input": {
                 "_meta": {
@@ -140,7 +140,7 @@
         },
         {
             "_meta": {
-                "index": 5
+                "index": 6
             },
             "input": {
                 "_meta": {
@@ -179,7 +179,7 @@
         },
         {
             "_meta": {
-                "index": 6
+                "index": 7
             },
             "input": {
                 "_meta": {
