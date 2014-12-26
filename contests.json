@@ -5,11 +5,11 @@
     "contests": [
         {
             "_meta": {
+                "id": "659ca5dc",
                 "index": 1,
                 "notes": "Random contest with 3 candidates",
-                "id": "ecd7e158",
                 "rule_sets": [
-                    "sfrcv"
+                    "irv"
                 ]
             },
             "ballots": [
@@ -21,11 +21,11 @@
         },
         {
             "_meta": {
+                "id": "3aa65320",
                 "index": 2,
                 "notes": "Random contest with 4 candidates",
-                "id": "64c8c2a6",
                 "rule_sets": [
-                    "sfrcv"
+                    "irv"
                 ]
             },
             "ballots": [
@@ -39,11 +39,11 @@
         },
         {
             "_meta": {
+                "id": "0a8c9bfd",
                 "index": 3,
                 "notes": "Random contest with 5 candidates",
-                "id": "454e583d",
                 "rule_sets": [
-                    "sfrcv"
+                    "irv"
                 ]
             },
             "ballots": [
@@ -57,15 +57,15 @@
         },
         {
             "_meta": {
+                "id": "a7ee26a9",
                 "index": 4,
                 "name": "Random Contest",
                 "notes": [
                     "Contest has 6 candidates and 20 ballots.  ",
                     "Created on November 26, 2014 10:51:10PM."
                 ],
-                "id": "5b447159",
                 "rule_sets": [
-                    "sfrcv"
+                    "irv"
                 ]
             },
             "ballots": [
@@ -93,15 +93,15 @@
         },
         {
             "_meta": {
+                "id": "ca83fa67",
                 "index": 5,
                 "name": "Random Contest",
                 "notes": [
                     "Random contest with 6 candidates and 20 ballots.  ",
                     "Created on December 15, 2014 at 11:30:07AM."
                 ],
-                "id": "aa21b058",
                 "rule_sets": [
-                    "sfrcv"
+                    "irv"
                 ]
             },
             "ballots": [
@@ -127,6 +127,7 @@
         },
         {
             "_meta": {
+                "id": "8be719a7",
                 "index": 6,
                 "name": "Random Contest",
                 "normalize_ballots": false,
@@ -134,9 +135,8 @@
                     "Random contest with 6 candidates and 20 ballots.  ",
                     "Created on December 15, 2014 at 11:31:26AM."
                 ],
-                "id": "04fa8b47",
                 "rule_sets": [
-                    "sfrcv"
+                    "irv"
                 ]
             },
             "ballots": [
