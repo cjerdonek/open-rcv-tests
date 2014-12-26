@@ -50,6 +50,32 @@
         },
         {
             "_meta": {
+                "index": 2,
+                "rules": [
+                    "batch_elimination"
+                ]
+            },
+            "input": {
+                "_meta": {
+                    "id": "3aa65320",
+                    "index": 2,
+                    "notes": "Random contest with 4 candidates",
+                    "rule_sets": [
+                        "irv"
+                    ]
+                },
+                "ballots": [
+                    "1 1 3 2",
+                    "1 1 3 3",
+                    "1 2 3",
+                    "1 3 4 1 3",
+                    "1 3 4 2"
+                ],
+                "candidate_count": 4
+            }
+        },
+        {
+            "_meta": {
                 "index": 3
             },
             "input": {
