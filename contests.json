@@ -5,7 +5,7 @@
     "contests": [
         {
             "_meta": {
-                "id": 1,
+                "index": 1,
                 "notes": "Random contest with 3 candidates",
                 "rule_sets": ["sfrcv"]
             },
@@ -18,7 +18,7 @@
         },
         {
             "_meta": {
-                "id": 2,
+                "index": 2,
                 "notes": "Random contest with 4 candidates",
                 "rule_sets": ["sfrcv"]
             },
@@ -33,7 +33,7 @@
         },
         {
             "_meta": {
-                "id": 3,
+                "index": 3,
                 "notes": "Random contest with 5 candidates",
                 "rule_sets": ["sfrcv"]
             },
@@ -48,7 +48,7 @@
         },
         {
             "_meta": {
-                "id": 4,
+                "index": 4,
                 "name": "Random Contest",
                 "notes": [
                     "Contest has 6 candidates and 20 ballots.  ",
@@ -81,7 +81,7 @@
         },
         {
             "_meta": {
-                "id": 5,
+                "index": 5,
                 "name": "Random Contest",
                 "notes": [
                     "Random contest with 6 candidates and 20 ballots.  ",
@@ -112,7 +112,7 @@
         },
         {
             "_meta": {
-                "id": 6,
+                "index": 6,
                 "name": "Random Contest",
                 "normalize_ballots": false,
                 "notes": [
