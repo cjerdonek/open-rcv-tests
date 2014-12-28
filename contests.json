@@ -66,8 +66,7 @@
             ],
             "candidate_count": 3,
             "tie_elimination_order": [
-                1,
-                2
+                1
             ]
         },
         {
@@ -86,8 +85,7 @@
             ],
             "candidate_count": 3,
             "tie_elimination_order": [
-                2,
-                3
+                2
             ]
         },
         {
@@ -106,8 +104,7 @@
             ],
             "candidate_count": 3,
             "tie_elimination_order": [
-                3,
-                2
+                3
             ]
         },
         {
