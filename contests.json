@@ -23,8 +23,7 @@
             "_meta": {
                 "id": "84833cb1",
                 "index": 1,
-                "name": "Unresolved Tie",
-                "notes": "Simple contest with an unresolved tie for last place.",
+                "name": "Tie for last place (unresolved).",
                 "rule_sets": [
                     "irv"
                 ]
@@ -38,8 +37,28 @@
         },
         {
             "_meta": {
-                "id": "659ca5dc",
+                "id": "812927de",
                 "index": 2,
+                "name": "Tie for last place (eliminate first).",
+                "rule_sets": [
+                    "irv"
+                ]
+            },
+            "ballots": [
+                "1 1",
+                "1 2 1",
+                "1 3 1"
+            ],
+            "candidate_count": 3,
+            "tie_elimination_order": [
+                2,
+                3
+            ]
+        },
+        {
+            "_meta": {
+                "id": "659ca5dc",
+                "index": 3,
                 "notes": "Random contest with 3 candidates",
                 "rule_sets": [
                     "irv"
@@ -55,7 +74,7 @@
         {
             "_meta": {
                 "id": "3aa65320",
-                "index": 3,
+                "index": 4,
                 "notes": "Random contest with 4 candidates",
                 "rule_sets": [
                     "irv"
@@ -73,7 +92,7 @@
         {
             "_meta": {
                 "id": "0a8c9bfd",
-                "index": 4,
+                "index": 5,
                 "notes": "Random contest with 5 candidates",
                 "rule_sets": [
                     "irv"
@@ -91,7 +110,7 @@
         {
             "_meta": {
                 "id": "a7ee26a9",
-                "index": 5,
+                "index": 6,
                 "name": "Random Contest",
                 "notes": [
                     "Contest has 6 candidates and 20 ballots.  ",
@@ -127,7 +146,7 @@
         {
             "_meta": {
                 "id": "ca83fa67",
-                "index": 6,
+                "index": 7,
                 "name": "Random Contest",
                 "notes": [
                     "Random contest with 6 candidates and 20 ballots.  ",
@@ -161,7 +180,7 @@
         {
             "_meta": {
                 "id": "8be719a7",
-                "index": 7,
+                "index": 8,
                 "name": "Random Contest",
                 "normalize_ballots": false,
                 "notes": [
