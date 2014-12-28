@@ -1,7 +1,7 @@
 {
     "_meta": {
         "rule_set": "irv",
-        "version": "0.1.0-alpha"
+        "version": "0.0.1-alpha"
     },
     "test_cases": [
         {
@@ -10,8 +10,124 @@
             },
             "input": {
                 "_meta": {
-                    "id": "659ca5dc",
+                    "id": "7e478420",
                     "index": 1,
+                    "name": "Simple winner in first round.",
+                    "rule_sets": [
+                        "irv"
+                    ]
+                },
+                "ballots": [
+                    "1 1",
+                    "2 2"
+                ],
+                "candidate_count": 2
+            }
+        },
+        {
+            "_meta": {
+                "index": 2
+            },
+            "input": {
+                "_meta": {
+                    "id": "84833cb1",
+                    "index": 2,
+                    "name": "Tie for last place (tie-break unspecified).",
+                    "rule_sets": [
+                        "irv"
+                    ]
+                },
+                "ballots": [
+                    "2 1",
+                    "1 2",
+                    "1 3"
+                ],
+                "candidate_count": 3
+            }
+        },
+        {
+            "_meta": {
+                "index": 3
+            },
+            "input": {
+                "_meta": {
+                    "id": "26ce957a",
+                    "index": 3,
+                    "name": "Tie for last place (tie-break underspecified).",
+                    "rule_sets": [
+                        "irv"
+                    ]
+                },
+                "ballots": [
+                    "2 1",
+                    "1 2",
+                    "1 3"
+                ],
+                "candidate_count": 3,
+                "tie_elimination_order": [
+                    1,
+                    2
+                ]
+            }
+        },
+        {
+            "_meta": {
+                "index": 4
+            },
+            "input": {
+                "_meta": {
+                    "id": "812927de",
+                    "index": 4,
+                    "name": "Tie for last place (eliminate first).",
+                    "rule_sets": [
+                        "irv"
+                    ]
+                },
+                "ballots": [
+                    "2 1",
+                    "1 2",
+                    "1 3"
+                ],
+                "candidate_count": 3,
+                "tie_elimination_order": [
+                    2,
+                    3
+                ]
+            }
+        },
+        {
+            "_meta": {
+                "index": 5
+            },
+            "input": {
+                "_meta": {
+                    "id": "30719c69",
+                    "index": 5,
+                    "name": "Tie for last place (eliminate second).",
+                    "rule_sets": [
+                        "irv"
+                    ]
+                },
+                "ballots": [
+                    "2 1",
+                    "1 2",
+                    "1 3"
+                ],
+                "candidate_count": 3,
+                "tie_elimination_order": [
+                    3,
+                    2
+                ]
+            }
+        },
+        {
+            "_meta": {
+                "index": 6
+            },
+            "input": {
+                "_meta": {
+                    "id": "659ca5dc",
+                    "index": 6,
                     "notes": "Random contest with 3 candidates",
                     "rule_sets": [
                         "irv"
@@ -38,12 +154,12 @@
         },
         {
             "_meta": {
-                "index": 2
+                "index": 7
             },
             "input": {
                 "_meta": {
                     "id": "3aa65320",
-                    "index": 2,
+                    "index": 7,
                     "notes": "Random contest with 4 candidates",
                     "rule_sets": [
                         "irv"
@@ -86,7 +202,7 @@
         },
         {
             "_meta": {
-                "index": 3,
+                "index": 8,
                 "rules": [
                     "batch_elimination"
                 ]
@@ -94,7 +210,7 @@
             "input": {
                 "_meta": {
                     "id": "3aa65320",
-                    "index": 2,
+                    "index": 7,
                     "notes": "Random contest with 4 candidates",
                     "rule_sets": [
                         "irv"
@@ -137,12 +253,12 @@
         },
         {
             "_meta": {
-                "index": 4
+                "index": 9
             },
             "input": {
                 "_meta": {
                     "id": "0a8c9bfd",
-                    "index": 3,
+                    "index": 8,
                     "notes": "Random contest with 5 candidates",
                     "rule_sets": [
                         "irv"
@@ -194,12 +310,12 @@
         },
         {
             "_meta": {
-                "index": 5
+                "index": 10
             },
             "input": {
                 "_meta": {
                     "id": "a7ee26a9",
-                    "index": 4,
+                    "index": 9,
                     "name": "Random Contest",
                     "notes": [
                         "Contest has 6 candidates and 20 ballots.  ",
@@ -249,12 +365,12 @@
         },
         {
             "_meta": {
-                "index": 6
+                "index": 11
             },
             "input": {
                 "_meta": {
                     "id": "ca83fa67",
-                    "index": 5,
+                    "index": 10,
                     "name": "Random Contest",
                     "notes": [
                         "Random contest with 6 candidates and 20 ballots.  ",
@@ -311,12 +427,12 @@
         },
         {
             "_meta": {
-                "index": 7
+                "index": 12
             },
             "input": {
                 "_meta": {
                     "id": "8be719a7",
-                    "index": 6,
+                    "index": 11,
                     "name": "Random Contest",
                     "normalize_ballots": false,
                     "notes": [
