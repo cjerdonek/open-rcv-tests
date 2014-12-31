@@ -1,7 +1,7 @@
 # Ranked Choice Voting (RCV) Tests
 
-
-The tests are hosted on GitHub_.
+The tests are hosted and maintained on [GitHub][tests_github].
+The GitHub page is also the project page.
 
 All test data is coded as JSON.  For reproducibility, all JSON object
 name-value pairs are ordered by name.
@@ -36,4 +36,4 @@ add a test case by manually editing a JSON test file.
 TODO
 
 
-.. _GitHub: https://github.com/cjerdonek/open-rcv
+[tests_github]: https://github.com/cjerdonek/open-rcv-tests
