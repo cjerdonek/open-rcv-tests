@@ -15,7 +15,7 @@ TODO: mention rule descriptions.
 Documentation
 -------------
 
-For documentation, visit: [rcv-tests.readthedocs.org][rcv_tests_docs].
+For documentation, visit: [rcv-tests.readthedocs.org](rcv_tests_docs).
 
 
 Test Details
