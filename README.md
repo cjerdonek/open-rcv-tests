@@ -12,6 +12,12 @@ uses the tests in this repository.
 TODO: mention rule descriptions.
 
 
+Documentation
+-------------
+
+For documentation, visit: [rcv-tests.readthedocs.org][rcv_tests_docs].
+
+
 Test Details
 ------------
 
@@ -42,6 +48,7 @@ Author
 Chris Jerdonek (<chris.jerdonek@gmail.com>)
 
 
+[rcv_tests\_docs]: http://rcv-tests.readthedocs.org/en/latest/
 [openrcv_github]: https://github.com/cjerdonek/open-rcv
 [semver]: http://semver.org/
 [test_data]: contests.json
