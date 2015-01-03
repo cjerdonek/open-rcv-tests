@@ -48,7 +48,7 @@ Author
 Chris Jerdonek (<chris.jerdonek@gmail.com>)
 
 
-[rcv_tests\_docs]: http://rcv-tests.readthedocs.org/en/latest/
+[rcv_tests_docs]: http://rcv-tests.readthedocs.org/en/latest/
 [openrcv_github]: https://github.com/cjerdonek/open-rcv
 [semver]: http://semver.org/
 [test_data]: contests.json
