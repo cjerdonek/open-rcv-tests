@@ -1,0 +1,23 @@
+{
+    "_meta": {
+        "name": "Constants file",
+        "notes": [
+            "This file is auto-generated, so do not edit the file by hand",
+            "if you want the changes to persist."
+        ]
+    },
+    "candidate_names": [
+        "Ann",
+        "Bob",
+        "Carol",
+        "Dave",
+        "Ellen",
+        "Fred",
+        "Gwen",
+        "Hank",
+        "Irene",
+        "Joe",
+        "Katy",
+        "Leo"
+    ]
+}
