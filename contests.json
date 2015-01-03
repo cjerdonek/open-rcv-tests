@@ -1,21 +1,5 @@
 {
     "_meta": {
-        "candidate_names": [
-            "Ann",
-            "Bob",
-            "Carol",
-            "Dave",
-            "Ellen",
-            "Fred",
-            "Gwen",
-            "Hank",
-            "Irene",
-            "Joe",
-            "Katy",
-            "Leo",
-            "Person 13",
-            "Person 14"
-        ],
         "version": "0.0.1-alpha"
     },
     "contests": [
