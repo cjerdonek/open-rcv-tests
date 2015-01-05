@@ -1,15 +1,14 @@
-`rcv-tests` (Ranked Choice Voting Tests)
-========================================
+rcv-tests (Ranked Choice Voting Tests)
+======================================
 
 The `rcv-tests` project is a publicly available collection of test cases
 for ranked choice voting methods.
 
-The test cases are intended to be used for testing ranked choice voting
-election software.  [OpenRCV][openrcv_github] is an example of a project
-that uses the tests in this repository.
+The test cases are intended for use in testing ranked choice voting
+election software.  [OpenRCV][openrcv_github] is an example of such software.
 
 The project page and source code are on [GitHub][openrcv_github].  Project
-documentation is located at [rcv-tests.readthedocs.org][rcv_tests_docs].
+documentation is located at: [http://rcv-tests.readthedocs.org][rcv_tests_docs].
 
 TODO: mention rule descriptions.
 
