@@ -1,27 +1,17 @@
-Ranked Choice Voting Tests
-==========================
+`rcv-tests` (Ranked Choice Voting Tests)
+========================================
 
-The purpose of this repository is to make test cases publicly available
-for ranked choice voting election software.
+The `rcv-tests` project is a publicly available collection of test cases
+for ranked choice voting methods.
 
-The test cases in this repository can be used for automated testing
-and to help check that different software implementations agree and
-are correct.  [OpenRCV][openrcv_github] is an example of a project that
-uses the tests in this repository.
+The test cases are intended to be used for testing ranked choice voting
+election software.  [OpenRCV][openrcv_github] is an example of a project
+that uses the tests in this repository.
+
+The project page and source code are on [GitHub][openrcv_github].  Project
+documentation is located at [rcv-tests.readthedocs.org][rcv_tests_docs].
 
 TODO: mention rule descriptions.
-
-
-Documentation
--------------
-
-For documentation, visit-- [rcv-tests.readthedocs.org][rcv_tests\_docs] .
-
-
-Test Details
-------------
-
-The tests are located in the file [`contests.json`][test_data].
 
 
 For Maintainers
@@ -48,8 +38,7 @@ Author
 Chris Jerdonek (<chris.jerdonek@gmail.com>)
 
 
-[rcv_tests_docs]: http://rcv-tests.readthedocs.org/en/latest/
 [openrcv_github]: https://github.com/cjerdonek/open-rcv
+[rcv_tests_docs]: http://rcv-tests.readthedocs.org/en/latest/
 [semver]: http://semver.org/
-[test_data]: contests.json
 [version_number]: https://github.com/cjerdonek/open-rcv-tests/blob/master/tests.json#L2
