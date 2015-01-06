@@ -1,19 +1,22 @@
 rcv-tests
 =========
 
+[![Documentation Status](https://readthedocs.org/projects/rcv-tests/badge/?version=latest)](https://readthedocs.org/projects/rcv-tests/?badge=latest)
+
 The `rcv-tests` project is a publicly available collection of ranked choice
 voting test cases.
 
-The test cases cover many variations of instant runoff voting and the single
-transferable vote.  The test cases are intended for use in testing ranked
-choice voting election software (e.g. [OpenRCV][openrcv_github]).
+The test cases cover many variations of [instant runoff voting][wiki_irv]
+and the [single transferable vote][wiki_stv].  The test cases are intended
+for testing ranked choice voting election software (e.g.
+[OpenRCV][openrcv_github]).
 
 Some key links:
 
 * [Project page and tests][openrcv_github] (GitHub)
 * [Documentation][rcv_tests_docs] (rcv-tests.readthedocs.org)
 
-**Current status: not yet ready but actively being worked on.**
+**Project status: not yet ready but actively being worked on.**
 
 
 For Maintainers
@@ -40,7 +43,9 @@ Author
 Chris Jerdonek (<chris.jerdonek@gmail.com>)
 
 
-[openrcv_github]: https://github.com/cjerdonek/open-rcv
 [rcv_tests_docs]: http://rcv-tests.readthedocs.org/en/latest/
+[rcv_tests_github]: https://github.com/cjerdonek/open-rcv-tests
 [semver]: http://semver.org/
 [version_number]: https://github.com/cjerdonek/open-rcv-tests/blob/master/tests.json#L2
+[wiki_irv]: http://en.wikipedia.org/wiki/Instant-runoff_voting
+[wiki_stv]: http://en.wikipedia.org/wiki/Single_transferable_vote
