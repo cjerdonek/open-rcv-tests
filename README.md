@@ -13,7 +13,7 @@ for testing ranked choice voting election software (e.g.
 
 Some key links:
 
-* [Project page and tests][openrcv_github] (GitHub)
+* [Project page and tests][rcv_tests_github] (GitHub)
 * [Documentation][rcv_tests_docs] (rcv-tests.readthedocs.org)
 
 **Project status: not yet ready but actively being worked on.**
@@ -43,6 +43,7 @@ Author
 Chris Jerdonek (<chris.jerdonek@gmail.com>)
 
 
+[openrcv_github]: https://github.com/cjerdonek/open-rcv
 [rcv_tests_docs]: http://rcv-tests.readthedocs.org/en/latest/
 [rcv_tests_github]: https://github.com/cjerdonek/open-rcv-tests
 [semver]: http://semver.org/
