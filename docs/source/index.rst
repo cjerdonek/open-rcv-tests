@@ -38,6 +38,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   glossary
 
 
 Indices and tables
